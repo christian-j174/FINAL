@@ -225,7 +225,7 @@ class Store {
 }; // End of Store class
 
 int main() {
-
+    cout << "Testing" << endl;
     vector<Building *> allBuildings;
     vector<Building *> oneBuilding;
     vector<Building *> noBuildings;
